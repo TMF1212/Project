@@ -222,3 +222,9 @@ Developers should adopt incremental PR practices (moderate size, clear commits) 
 Projects can encourage adoption by providing guidelines for newcomers on integrating agents safely.
 
 Ecosystems with structured contribution norms (tests, templates, CI/CD pipelines) may benefit more from agentic PRs.
+
+
+
+**Acknowledgements**
+
+I would like to express my sincere gratitude to Prof. JW for providing the project and dataset that formed the foundation of this research.
